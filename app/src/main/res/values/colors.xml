@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name ="searchbar">#51C6FC</color>
+    <color name="colorPrimary">#2C89D3</color>
+    <color name="colorPrimaryDark">#02599E</color>
+    <color name="colorAccent">#dddddd</color>
+    <color name="colorTabTitle">#ffffff</color>
+    <color name="white">#ffffff</color>
+    <color name="ColorTransparent">#00000000</color>
+
+</resources>
